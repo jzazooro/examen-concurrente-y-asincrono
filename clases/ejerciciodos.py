@@ -93,5 +93,3 @@ while jugador.saldo>100 or jugador.saldo<50000:
     if jugador.obtener_saldo()==0:
         print("El jugador se quedó sin dinero")
         break
-
-
